@@ -24,7 +24,7 @@ A presentation about software development as a career
 - It’s creative
 - It’s social
 - Level playing field (thank you Internet!)
-- Most working environments are very good (low on drama)
+- Most working environments are very good (low on drama, no dress code)
 
 <br/><br/><br/><br/>
 
