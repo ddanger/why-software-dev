@@ -1,15 +1,21 @@
 # Software Engineer Career
 A presentation about software development as a career
 
+<br/><br/><br/><br/>
+
 ## Standard Way to Get In
 - Bachelors Degrees (Masters doesn't hurt, usually helps):
   - Computer Science
   - Information Systems
   - Many others...
 
+<br/><br/><br/><br/>
+
 ## Alternative Ways
-- Coding Boot Camp
+- Coding Boot Camps (e.g. Prime Digital Academy)
 - Independent Study (personal portfolio)
+
+<br/><br/><br/><br/>
 
 ## Reasons People Like It (Part 1)
 - You learn something every day
@@ -20,6 +26,8 @@ A presentation about software development as a career
 - Level playing field (thank you Internet!)
 - Most working environments are very good (low on drama)
 
+<br/><br/><br/><br/>
+
 ## Reasons People Like It (Part 2)
 - Pretty good pay (source salary.com data for Rochester, MN 25% - 75% percentile)
   - Level 1 - min 0-2 yrs: $57 - $76
@@ -28,8 +36,12 @@ A presentation about software development as a career
   - Level 4 - min 7+  yrs: $114 - $139
   - Level 5 - min 10+ yrs: $140 - $158
 
+<br/><br/><br/><br/>
+
 ## Reasons People Dislike It
 - You have to keep learning
 - Job/employer churn
 - Too much freedom and independence
-- Lots of screen time
+- Lots of keyboard/screen/desk time
+
+<br/><br/><br/><br/>
