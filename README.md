@@ -4,7 +4,7 @@ A presentation about software development as a career
 
 <br/><br/><br/><br/>
 
-## Reasons People Like It (Part 1)
+## Reasons People Like It (Part 1) 😎
 - You learn something every day
 - Lots of job options
 - Possibility of working remotely
@@ -25,7 +25,7 @@ A presentation about software development as a career
 
 <br/><br/><br/><br/>
 
-## Reasons People Dislike It
+## Reasons People Dislike It ☹️
 - You have to keep learning
 - Job/employer churn
 - Too much freedom and independence
@@ -42,13 +42,13 @@ A presentation about software development as a career
 
 <br/><br/><br/><br/>
 
-## Alternative Ways
+## Alternative Ways 📚
 - Coding Boot Camps (e.g. Prime Digital Academy)
 - Independent Study (personal portfolio)
 
 <br/><br/><br/><br/>
 
-## Learning More (many are free)
+## Learning More (many are free) 🚀
 - https://skillcrush.com/2016/03/15/64-online-resources-to-learn-to-code-for-free/
 - https://codepen.io/ (e.g. https://codepen.io/kevinnewcombe/pen/axVVqK)
 - https://frontendmasters.com/books/front-end-handbook/2019/#4
