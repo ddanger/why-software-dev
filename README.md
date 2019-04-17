@@ -30,6 +30,7 @@ A presentation about software development as a career
 - Job/employer churn
 - Too much freedom and independence
 - Lots of indoor/keyboard/screen/desk time
+- Majority of social interactioin might be via tech (chat, phone, video call, etc.)
 
 <br/><br/><br/><br/>
 
