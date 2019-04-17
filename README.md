@@ -6,6 +6,7 @@ A presentation about software development as a career
 ## Standard Way to Get In 🎓
 - Bachelors Degree (Masters doesn't hurt, usually helps):
   - Computer Science
+  - Software Engineering
   - Information Systems
   - Many others...
 
@@ -44,3 +45,8 @@ A presentation about software development as a career
 - Lots of indoor/keyboard/screen/desk time
 
 <br/><br/><br/><br/>
+
+## Learning More
+- https://codepen.io/
+- https://frontendmasters.com/books/front-end-handbook/2019/#4
+- https://scratch.mit.edu/
