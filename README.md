@@ -4,21 +4,6 @@ A presentation about software development as a career
 
 <br/><br/><br/><br/>
 
-## Standard Way to Get In 🎓
-- Bachelors Degree (Masters doesn't hurt, usually helps):
-  - Computer Science
-  - Software Engineering
-  - Information Systems
-  - Many others...
-
-<br/><br/><br/><br/>
-
-## Alternative Ways
-- Coding Boot Camps (e.g. Prime Digital Academy)
-- Independent Study (personal portfolio)
-
-<br/><br/><br/><br/>
-
 ## Reasons People Like It (Part 1)
 - You learn something every day
 - Lots of job options
@@ -44,6 +29,21 @@ A presentation about software development as a career
 - Job/employer churn
 - Too much freedom and independence
 - Lots of indoor/keyboard/screen/desk time
+
+<br/><br/><br/><br/>
+
+## Standard Way to Get In 🎓
+- Bachelors Degree (Masters doesn't hurt, usually helps):
+  - Computer Science
+  - Software Engineering
+  - Information Systems
+  - Many others...
+
+<br/><br/><br/><br/>
+
+## Alternative Ways
+- Coding Boot Camps (e.g. Prime Digital Academy)
+- Independent Study (personal portfolio)
 
 <br/><br/><br/><br/>
 
