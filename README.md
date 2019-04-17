@@ -17,8 +17,6 @@ A presentation about software development as a career
 <br/><br/><br/><br/>
 
 ## Reasons People Like It (Part 2) 💵
-- You get paid to do it
-
 | Promotional Level | Experience Guideline | Base Salary Range |
 |:-----------------:|----------------------|-------------------|
 | I   | 0-2 yrs | [$57k - $76k](https://swz.salary.com/SalaryWizard/Software-Engineer-I-Salary-Details-Rochester-MN.aspx)
