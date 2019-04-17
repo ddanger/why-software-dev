@@ -21,8 +21,7 @@ A presentation about software development as a career
 - You learn something every day
 - Lots of job options
 - Possibility of working remotely
-- It’s creative
-- It’s social
+- It’s creative and social
 - Level playing field (thank you Internet!)
 - Most working environments are very good (low on drama, no dress code)
 
