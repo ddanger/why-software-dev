@@ -53,6 +53,8 @@ A presentation about software development as a career
 ## Alternative Ways 📚
 - Coding Boot Camps (e.g. Prime Digital Academy)
 - Independent Study (personal portfolio)
+- Probably less pay for first few years, but
+- Once you're proven lack of degree doesn't matter
 
 <br/><br/><br/><br/>
 
