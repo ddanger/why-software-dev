@@ -10,7 +10,7 @@ A presentation about software development as a career
 - Possibility of working remotely
 - It’s creative and social-ish
 - Level playing field (thank you Internet!)
-- Most working environments are very good (low on drama, no dress code, average 40-48 hours/wk (more if you want), flexible hours often available)
+- Most working environments are very good (low on drama, informal culture, no dress code, average 40-48 hours/wk (more if you want), flexible hours often available)
 
 <br/><br/><br/><br/>
 
