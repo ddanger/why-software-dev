@@ -29,7 +29,7 @@ A presentation about software development as a career
 <br/><br/><br/><br/>
 
 ## Reasons People Like It (Part 2)
-- Pretty good pay (source: salary.com data for Rochester, MN 25% - 75% percentile 4/16/2019)
+- Pretty good pay (source: salary.com data for Rochester, MN | 25% - 75% percentile | 4/16/2019)
   - Level 1 - min 0-2 yrs: $57k - $76k
   - Level 2 - min 2-4 yrs: $75k - $93k
   - Level 3 - min 4-7 yrs: $94k - $116k
