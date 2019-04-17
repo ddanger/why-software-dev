@@ -15,12 +15,13 @@ A presentation about software development as a career
 <br/><br/><br/><br/>
 
 ## Reasons People Like It (Part 2) 💵
-- Pretty good pay (source: salary.com data for Rochester, MN | 25% - 75% percentile | 4/16/2019)
-  - Level 1 - min 0-2 yrs: $57k - $76k
-  - Level 2 - min 2-4 yrs: $75k - $93k
-  - Level 3 - min 4-7 yrs: $94k - $116k
-  - Level 4 - min 7+  yrs: $114k - $139k
-  - Level 5 - min 10+ yrs: $140k - $158k
+- You get paid to do it
+- (source: salary.com data for Software Engineer | Rochester, MN | 25% - 75% percentile | on 4/16/2019)
+  - Level 1 - min 0-2 yrs: [$57k - $76k](https://swz.salary.com/SalaryWizard/Software-Engineer-I-Salary-Details-Rochester-MN.aspx)
+  - Level 2 - min 2-4 yrs: [$75k - $93k](https://swz.salary.com/SalaryWizard/Software-Engineer-II-Salary-Details-Rochester-MN.aspx)
+  - Level 3 - min 4-7 yrs: [$94k - $116k](https://swz.salary.com/SalaryWizard/Software-Engineer-III-Salary-Details-Rochester-MN.aspx)
+  - Level 4 - min 7+  yrs: [$114k - $139k](https://swz.salary.com/SalaryWizard/Software-Engineer-IV-Salary-Details-Rochester-MN.aspx)
+  - Level 5 - min 10+ yrs: [$140k - $158k](https://swz.salary.com/SalaryWizard/Software-Engineer-V-Salary-Details-Rochester-MN.aspx)
 
 <br/><br/><br/><br/>
 
