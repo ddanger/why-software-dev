@@ -3,6 +3,7 @@
 # Software Engineer Career 👩‍💻
 A presentation about software development as a career
 ### https://tinyurl.com/why-dev
+![alt text](https://github.com/ddanger/why-software-dev/raw/master/qr.png "QR Code for this presentation")
 
 <br/><br/><br/><br/>
 
