@@ -30,11 +30,11 @@ A presentation about software development as a career
 
 ## Reasons People Like It (Part 2)
 - Pretty good pay (source salary.com data for Rochester, MN 25% - 75% percentile)
-  - Level 1 - min 0-2 yrs: $57 - $76
-  - Level 2 - min 2-4 yrs: $75 - $93
-  - Level 3 - min 4-7 yrs: $94 - $116
-  - Level 4 - min 7+  yrs: $114 - $139
-  - Level 5 - min 10+ yrs: $140 - $158
+  - Level 1 - min 0-2 yrs: $57k - $76k
+  - Level 2 - min 2-4 yrs: $75k - $93k
+  - Level 3 - min 4-7 yrs: $94k - $116k
+  - Level 4 - min 7+  yrs: $114k - $139k
+  - Level 5 - min 10+ yrs: $140k - $158k
 
 <br/><br/><br/><br/>
 
