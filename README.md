@@ -42,6 +42,6 @@ A presentation about software development as a career
 - You have to keep learning
 - Job/employer churn
 - Too much freedom and independence
-- Lots of keyboard/screen/desk time
+- Lots of indoor/keyboard/screen/desk time
 
 <br/><br/><br/><br/>
