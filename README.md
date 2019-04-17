@@ -51,3 +51,4 @@ A presentation about software development as a career
 - https://codepen.io/
 - https://frontendmasters.com/books/front-end-handbook/2019/#4
 - https://scratch.mit.edu/
+- https://codesandbox.io/s/ly62zqm4nm
