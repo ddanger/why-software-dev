@@ -19,13 +19,13 @@ A presentation about software development as a career
 ## Reasons People Like It (Part 2) 💵
 - You get paid to do it
 
-| Promo Level | Min. Experience | Pay Range |
-|-------------|-----------------|-----------|
-| 1           | 0-2 yrs         | [$57k - $76k](https://swz.salary.com/SalaryWizard/Software-Engineer-I-Salary-Details-Rochester-MN.aspx)
-| 2           | 2-4 yrs         | [$75k - $93k](https://swz.salary.com/SalaryWizard/Software-Engineer-II-Salary-Details-Rochester-MN.aspx)
-| 3           | 4-7 yrs         | [$94k - $116k](https://swz.salary.com/SalaryWizard/Software-Engineer-III-Salary-Details-Rochester-MN.aspx)
-| 4           | 7+  yrs         | [$114k - $139k](https://swz.salary.com/SalaryWizard/Software-Engineer-IV-Salary-Details-Rochester-MN.aspx)
-| 5           | 10+ yrs         | [$126k - $158k](https://swz.salary.com/SalaryWizard/Software-Engineer-V-Salary-Details-Rochester-MN.aspx)
+| Promotional Level | Experience Guideline | Base Salary Range |
+|:-----------------:|----------------------|-------------------|
+| I   | 0-2 yrs | [$57k - $76k](https://swz.salary.com/SalaryWizard/Software-Engineer-I-Salary-Details-Rochester-MN.aspx)
+| II  | 2-4 yrs | [$75k - $93k](https://swz.salary.com/SalaryWizard/Software-Engineer-II-Salary-Details-Rochester-MN.aspx)
+| III | 4-7 yrs | [$94k - $116k](https://swz.salary.com/SalaryWizard/Software-Engineer-III-Salary-Details-Rochester-MN.aspx)
+| IV  | 7+  yrs | [$114k - $139k](https://swz.salary.com/SalaryWizard/Software-Engineer-IV-Salary-Details-Rochester-MN.aspx)
+| V   | 10+ yrs | [$126k - $158k](https://swz.salary.com/SalaryWizard/Software-Engineer-V-Salary-Details-Rochester-MN.aspx)
 
 (Data from salary.com for Software Engineer | Rochester, MN | 25% - 75% percentile | on 4/16/2019)
 
