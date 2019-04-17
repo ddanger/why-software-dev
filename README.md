@@ -48,7 +48,7 @@ A presentation about software development as a career
 
 ## Learning More
 - https://skillcrush.com/2016/03/15/64-online-resources-to-learn-to-code-for-free/
-- https://codepen.io/
+- https://codepen.io/ (e.g. https://codepen.io/kevinnewcombe/pen/axVVqK)
 - https://frontendmasters.com/books/front-end-handbook/2019/#4
 - https://scratch.mit.edu/
 - https://codesandbox.io/s/ly62zqm4nm
