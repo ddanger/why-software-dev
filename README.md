@@ -21,7 +21,7 @@ A presentation about software development as a career
   - Level 2 - min 2-4 yrs: [$75k - $93k](https://swz.salary.com/SalaryWizard/Software-Engineer-II-Salary-Details-Rochester-MN.aspx)
   - Level 3 - min 4-7 yrs: [$94k - $116k](https://swz.salary.com/SalaryWizard/Software-Engineer-III-Salary-Details-Rochester-MN.aspx)
   - Level 4 - min 7+  yrs: [$114k - $139k](https://swz.salary.com/SalaryWizard/Software-Engineer-IV-Salary-Details-Rochester-MN.aspx)
-  - Level 5 - min 10+ yrs: [$140k - $158k](https://swz.salary.com/SalaryWizard/Software-Engineer-V-Salary-Details-Rochester-MN.aspx)
+  - Level 5 - min 10+ yrs: [$126k - $158k](https://swz.salary.com/SalaryWizard/Software-Engineer-V-Salary-Details-Rochester-MN.aspx)
 
 <br/><br/><br/><br/>
 
