@@ -26,7 +26,8 @@ A presentation about software development as a career
 | 3           | 4-7 yrs         | [$94k - $116k](https://swz.salary.com/SalaryWizard/Software-Engineer-III-Salary-Details-Rochester-MN.aspx)
 | 4           | 7+  yrs         | [$114k - $139k](https://swz.salary.com/SalaryWizard/Software-Engineer-IV-Salary-Details-Rochester-MN.aspx)
 | 5           | 10+ yrs         | [$126k - $158k](https://swz.salary.com/SalaryWizard/Software-Engineer-V-Salary-Details-Rochester-MN.aspx)
-- (From salary.com data for Software Engineer | Rochester, MN | 25% - 75% percentile | on 4/16/2019)
+
+(Data from salary.com for Software Engineer | Rochester, MN | 25% - 75% percentile | on 4/16/2019)
 
 
 <br/><br/><br/><br/>
