@@ -4,7 +4,7 @@ A presentation about software development as a career
 <br/><br/><br/><br/>
 
 ## Standard Way to Get In
-- Bachelors Degrees (Masters doesn't hurt, usually helps):
+- Bachelors Degree (Masters doesn't hurt, usually helps):
   - Computer Science
   - Information Systems
   - Many others...
