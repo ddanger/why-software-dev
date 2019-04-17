@@ -1,4 +1,4 @@
-# Software Engineer Career
+# Software Engineer Career 👩‍💻
 A presentation about software development as a career
 
 <br/><br/><br/><br/>
