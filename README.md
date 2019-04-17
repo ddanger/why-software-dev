@@ -8,7 +8,7 @@ A presentation about software development as a career
 - You learn something every day
 - Lots of job options
 - Possibility of working remotely
-- It’s creative and social
+- It’s creative and social-ish
 - Level playing field (thank you Internet!)
 - Most working environments are very good (low on drama, no dress code, average 40-48 hours/wk (more if you want), flexible hours often available)
 
@@ -31,6 +31,7 @@ A presentation about software development as a career
 - Too much freedom and independence
 - Lots of indoor/keyboard/screen/desk time
 - Majority of social interactioin might be via tech (chat, phone, video call, etc.)
+- You spend most time learning new concepts and thinking about how to build things and make them work with those concepts
 
 <br/><br/><br/><br/>
 
