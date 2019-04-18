@@ -7,6 +7,22 @@ A presentation about software development as a career
 
 <br/><br/><br/><br/>
 
+## What We Do 💻
+- write instructions (code) for computers to follow
+- make websites, program robots, automate factories, 
+- pretty much everything uses software these days
+
+<br/><br/><br/><br/>
+
+## Who We Work With 🤝
+- Marketing 
+- Graphic Designers
+- User Experience Designers
+- Project Managers
+- Business Domain Experts
+
+<br/><br/><br/><br/>
+
 ## Reasons People Like It (Part 1) 😎
 - You learn something every day
 - Lots of job options
